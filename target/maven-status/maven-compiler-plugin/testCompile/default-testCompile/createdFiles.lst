@@ -1,0 +1,3 @@
+com\flink\pages\flinkPages.class
+com\flink\stepdefs\flinkStepDef.class
+com\flink\stepdefs\flinkRunnerTest.class
