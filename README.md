@@ -12,12 +12,15 @@ Clone the project from GIT to local machine with below dependencies -- JAVA Sdk,
 Currently the script supports Chrome and Firefox browsers only.
 
 Open Excel file and change the Test Data if required. 
-Save the changes and execute the script through the below methods --
+Save the changes and execute the script through the below methods by executing the test cases either consecutively or parallelly --
 Method 1:
 Eclipse IDE: Execute as JUnit Test.
 
 Method 2: Through this method one can execute the scenario parallely on Chrome and Firefox browsers at the same time.
-Command Line: Open cmd prompt in the system --> Navigate to the filepath where the project is stored --> mvn test
+Eclipse IDE -- Right Click on the project --> Run As --> Maven Build --> clean install --> Apply and Run.
 
 Method 3: Through this method one can execute the scenario parallely on Chrome and Firefox browsers at the same time.
+Command Line: Open cmd prompt in the system --> Navigate to the filepath where the project is stored --> mvn test
+
+Method 4: Through this method one can execute the scenario parallely on Chrome and Firefox browsers at the same time.
 Windows batch file: Navigate to the filepath where the project is stored --> Execute the "run.bat" file.
