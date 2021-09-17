@@ -8,7 +8,7 @@ The test scripts are written based on Selenium and Java Frontend Automation Suit
 Steps required to Execute the scenario --
 
 Clone master branch from GIT Repository or download the ZIP file. 
-Clone the project from GIT to local machine with below dependencies -- JAVA Sdk, Apache Maven, Selenium Webdriver (chromedriver or geckodriver). 
+Clone the project from GIT to local machine with below dependencies -- JAVA Sdk, Apache Maven, Selenium Webdriver (chromedriver and geckodriver). 
 Currently the script supports Chrome and Firefox browsers only.
 
 Open Excel file and change the Test Data if required. 
